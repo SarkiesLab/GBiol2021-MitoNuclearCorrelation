@@ -1,0 +1,39 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:5487	IGHD1OR15-1A	immunoglobulin heavy diversity 1/OR15-1A (non-functional)		"IGHD1/OR15-1A,IGHD1OR151A"	15q11.2
+HGNC:5488	IGHD1OR15-1B	immunoglobulin heavy diversity 1/OR15-1B (non-functional)		"IGHD1/OR15-1B,IGHD1OR151B"	15q11.2
+HGNC:5493	IGHD2OR15-2A	immunoglobulin heavy diversity 2/OR15-2A (non-functional)		"IGHD2/OR15-2A,IGHD2OR152A"	15q11.2
+HGNC:5494	IGHD2OR15-2B	immunoglobulin heavy diversity 2/OR15-2B (non-functional)		"IGHD2/OR15-2B,IGHD2OR152B"	15q11.2
+HGNC:5500	IGHD3OR15-3A	immunoglobulin heavy diversity 3/OR15-3A (non-functional)		"IGHD3/OR15-3A,IGHD3OR153A"	15q11.2
+HGNC:5501	IGHD3OR15-3B	immunoglobulin heavy diversity 3/OR15-3B (non-functional)		"IGHD3/OR15-3B,IGHD3OR153B"	15q11.2
+HGNC:5506	IGHD4OR15-4A	immunoglobulin heavy diversity 4/OR15-4A (non-functional)		"IGHD4/OR15-4A,IGHD4OR154A"	15q11.2
+HGNC:5507	IGHD4OR15-4B	immunoglobulin heavy diversity 4/OR15-4B (non-functional)		"IGHD4/OR15-4B,IGHD4OR154B"	15q11.2
+HGNC:5512	IGHD5OR15-5A	immunoglobulin heavy diversity 5/OR15-5A (non-functional)		"IGHD5/OR15-5A,IGHD5OR155A"	15q11.2
+HGNC:5513	IGHD5OR15-5B	immunoglobulin heavy diversity 5/OR15-5B (non-functional)		"IGHD5/OR15-5B,IGHD5OR155B"	15q11.2
+HGNC:5524	IGHEP2	immunoglobulin heavy constant epsilon P2 (pseudogene)			9p24.1
+HGNC:5563	IGHV1OR15-1	immunoglobulin heavy variable 1/OR15-1 (non-functional)		IGHV1/OR15-1	15q11.2
+HGNC:5564	IGHV1OR15-2	immunoglobulin heavy variable 1/OR15-2 (pseudogene)		IGHV1/OR15-2	15q11.1
+HGNC:5565	IGHV1OR15-3	immunoglobulin heavy variable 1/OR15-3 (pseudogene)		IGHV1/OR15-3	15q11.2
+HGNC:5566	IGHV1OR15-4	immunoglobulin heavy variable 1/OR15-4 (pseudogene)		IGHV1/OR15-4	15q11.2
+HGNC:5567	IGHV1OR15-5	immunoglobulin heavy variable 1/OR15-5 (non-functional)		IGHV1/OR15-5	15q11.2 not on reference assembly
+HGNC:5568	IGHV1OR15-6	immunoglobulin heavy variable 1/OR15-6 (pseudogene)		IGHV1/OR15-6	15q11.2
+HGNC:5569	IGHV1OR15-9	immunoglobulin heavy variable 1/OR15-9 (non-functional)	VSIG7	"IGHV1/OR15-9,IGHV1OR159"	15q11.1
+HGNC:5570	IGHV1OR16-1	immunoglobulin heavy variable 1/OR16-1 (pseudogene)		IGHV1/OR16-1	16p11.2
+HGNC:5571	IGHV1OR16-2	immunoglobulin heavy variable 1/OR16-2 (pseudogene)		IGHV1/OR16-2	16p11.2
+HGNC:5572	IGHV1OR16-3	immunoglobulin heavy variable 1/OR16-3 (pseudogene)		IGHV1/OR16-3	16p11.2
+HGNC:5573	IGHV1OR16-4	immunoglobulin heavy variable 1/OR16-4 (pseudogene)		IGHV1/OR16-4	16p11.2
+HGNC:38040	IGHV1OR21-1	immunoglobulin heavy variable 1/OR21-1 (non-functional)		IGHV1/OR21-1	21p11.2
+HGNC:5579	IGHV2OR16-5	immunoglobulin heavy variable 2/OR16-5 (non-functional)		IGHV2/OR16-5	16p11.2
+HGNC:5633	IGHV3OR15-7	immunoglobulin heavy variable 3/OR15-7 (pseudogene)		IGHV3/OR15-7	15q11.2
+HGNC:5641	IGHV3OR16-6	immunoglobulin heavy variable 3/OR16-6 (pseudogene)		IGHV3/OR16-6	16p11.2
+HGNC:5642	IGHV3OR16-7	immunoglobulin heavy variable 3/OR16-7 (pseudogene)		IGHV3/OR16-7	16p11.2
+HGNC:5643	IGHV3OR16-8	immunoglobulin heavy variable 3/OR16-8 (non-functional)		IGHV3/OR16-8	16p11.2
+HGNC:5644	IGHV3OR16-9	immunoglobulin heavy variable 3/OR16-9 (non-functional)		IGHV3/OR16-9	16p11.2
+HGNC:5634	IGHV3OR16-10	immunoglobulin heavy variable 3/OR16-10 (non-functional)		IGHV3/OR16-10	16p11.2
+HGNC:5635	IGHV3OR16-11	immunoglobulin heavy variable 3/OR16-11 (pseudogene)		IGHV3/OR16-11	16p11.2
+HGNC:5636	IGHV3OR16-12	immunoglobulin heavy variable 3/OR16-12 (non-functional)		IGHV3/OR16-12	16p11.2
+HGNC:5637	IGHV3OR16-13	immunoglobulin heavy variable 3/OR16-13 (non-functional)		IGHV3/OR16-13	16p11.2
+HGNC:5638	IGHV3OR16-14	immunoglobulin heavy variable 3/OR16-14 (pseudogene)		IGHV3/OR16-14	16p11.2
+HGNC:5639	IGHV3OR16-15	immunoglobulin heavy variable 3/OR16-15 (pseudogene)		IGHV3/OR16-15	16p11.2
+HGNC:5640	IGHV3OR16-16	immunoglobulin heavy variable 3/OR16-16 (pseudogene)		IGHV3/OR16-16	16p11.2
+HGNC:55105	IGHV3OR16-17	immunoglobulin heavy variable 3/OR16-17 (non-functional)		IGHV3/OR16-17	16p11.2
+HGNC:5658	IGHV4OR15-8	immunoglobulin heavy variable 4/OR15-8 (non-functional)	VSIG6	"IGHV4/OR15-8,IGHV4OR158"	15q11.2

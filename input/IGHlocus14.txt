@@ -1,0 +1,189 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:49603	IGHV3-64D	immunoglobulin heavy variable 3-64D			14q32.33
+HGNC:5477	IGH	immunoglobulin heavy locus	"IGHDY1,IGH@"		14q32.33
+HGNC:5550	IGHV1-2	immunoglobulin heavy variable 1-2		V35	14q32.33
+HGNC:5552	IGHV1-3	immunoglobulin heavy variable 1-3		VI-3B	14q32.33
+HGNC:5546	IGHV1-12	immunoglobulin heavy variable 1-12 (pseudogene)			14q32.33
+HGNC:5559	IGHV1-8	immunoglobulin heavy variable 1-8			14q32.33 not on reference assembly
+HGNC:5547	IGHV1-14	immunoglobulin heavy variable 1-14 (pseudogene)			14q32.33
+HGNC:5548	IGHV1-17	immunoglobulin heavy variable 1-17 (pseudogene)			14q32.33
+HGNC:5549	IGHV1-18	immunoglobulin heavy variable 1-18			14q32.33
+HGNC:5551	IGHV1-24	immunoglobulin heavy variable 1-24			14q32.33
+HGNC:5553	IGHV1-45	immunoglobulin heavy variable 1-45			14q32.33
+HGNC:5554	IGHV1-46	immunoglobulin heavy variable 1-46			14q32.33
+HGNC:5555	IGHV1-58	immunoglobulin heavy variable 1-58			14q32.33
+HGNC:5556	IGHV1-67	immunoglobulin heavy variable 1-67 (pseudogene)			14q32.33
+HGNC:5557	IGHV1-68	immunoglobulin heavy variable 1-68 (pseudogene)			14q32.33
+HGNC:5558	IGHV1-69	immunoglobulin heavy variable 1-69	IGHV1-E		14q32.33
+HGNC:49601	IGHV1-69D	immunoglobulin heavy variable 1-69D			14q32.33
+HGNC:5560	IGHV1-38-4	immunoglobulin heavy variable 1-38-4 (non-functional)	IGHV1-C	IGHV1-c	14q32.33 not on reference assembly
+HGNC:5562	IGHV1-69-2	immunoglobulin heavy variable 1-69-2	IGHV1-F	IGHV1-f	14q32.33
+HGNC:5576	IGHV2-5	immunoglobulin heavy variable 2-5			14q32.33
+HGNC:5574	IGHV2-10	immunoglobulin heavy variable 2-10 (pseudogene)			14q32.33 not on reference assembly
+HGNC:5575	IGHV2-26	immunoglobulin heavy variable 2-26			14q32.33
+HGNC:5577	IGHV2-70	immunoglobulin heavy variable 2-70			14q32.33
+HGNC:49602	IGHV2-70D	immunoglobulin heavy variable 2-70D			14q32.33
+HGNC:5613	IGHV3-6	immunoglobulin heavy variable 3-6 (pseudogene)			14q32.33
+HGNC:5620	IGHV3-7	immunoglobulin heavy variable 3-7			14q32.33
+HGNC:5628	IGHV3-9	immunoglobulin heavy variable 3-9			14q32.33
+HGNC:5580	IGHV3-11	immunoglobulin heavy variable 3-11			14q32.33
+HGNC:5581	IGHV3-13	immunoglobulin heavy variable 3-13			14q32.33
+HGNC:5582	IGHV3-15	immunoglobulin heavy variable 3-15			14q32.33
+HGNC:5583	IGHV3-16	immunoglobulin heavy variable 3-16 (non-functional)			14q32.33
+HGNC:5584	IGHV3-19	immunoglobulin heavy variable 3-19 (pseudogene)			14q32.33
+HGNC:5585	IGHV3-20	immunoglobulin heavy variable 3-20			14q32.33
+HGNC:5586	IGHV3-21	immunoglobulin heavy variable 3-21			14q32.33
+HGNC:5587	IGHV3-22	immunoglobulin heavy variable 3-22 (pseudogene)			14q32.33
+HGNC:5588	IGHV3-23	immunoglobulin heavy variable 3-23			14q32.33
+HGNC:5589	IGHV3-25	immunoglobulin heavy variable 3-25 (pseudogene)			14q32.33
+HGNC:5590	IGHV3-29	immunoglobulin heavy variable 3-29 (pseudogene)			14q32.33
+HGNC:5591	IGHV3-30	immunoglobulin heavy variable 3-30			14q32.33
+HGNC:5592	IGHV3-30-2	immunoglobulin heavy variable 3-30-2 (pseudogene)			14q32.33
+HGNC:5593	IGHV3-30-3	immunoglobulin heavy variable 3-30-3			14q32.33 not on reference assembly
+HGNC:5594	IGHV3-30-5	immunoglobulin heavy variable 3-30-5			14q32.33 not on reference assembly
+HGNC:5595	IGHV3-32	immunoglobulin heavy variable 3-32 (pseudogene)			14q32.33
+HGNC:5596	IGHV3-33	immunoglobulin heavy variable 3-33			14q32.33
+HGNC:5597	IGHV3-33-2	immunoglobulin heavy variable 3-33-2 (pseudogene)			14q32.33
+HGNC:5598	IGHV3-35	immunoglobulin heavy variable 3-35 (non-functional)			14q32.33
+HGNC:5599	IGHV3-36	immunoglobulin heavy variable 3-36 (pseudogene)			14q32.33
+HGNC:5600	IGHV3-37	immunoglobulin heavy variable 3-37 (pseudogene)			14q32.33
+HGNC:5601	IGHV3-38	immunoglobulin heavy variable 3-38 (non-functional)			14q32.33
+HGNC:5602	IGHV3-41	immunoglobulin heavy variable 3-41 (pseudogene)			14q32.33
+HGNC:5603	IGHV3-42	immunoglobulin heavy variable 3-42 (pseudogene)			14q32.33
+HGNC:5604	IGHV3-43	immunoglobulin heavy variable 3-43			14q32.33
+HGNC:50322	IGHV3-43D	immunoglobulin heavy variable 3-43D			14q32.33 not on reference assembly
+HGNC:5605	IGHV3-47	immunoglobulin heavy variable 3-47 (pseudogene)			14q32.33
+HGNC:5606	IGHV3-48	immunoglobulin heavy variable 3-48			14q32.33
+HGNC:5607	IGHV3-49	immunoglobulin heavy variable 3-49			14q32.33
+HGNC:5608	IGHV3-50	immunoglobulin heavy variable 3-50 (pseudogene)			14q32.33
+HGNC:5609	IGHV3-52	immunoglobulin heavy variable 3-52 (pseudogene)			14q32.33
+HGNC:5610	IGHV3-53	immunoglobulin heavy variable 3-53			14q32.33
+HGNC:5611	IGHV3-54	immunoglobulin heavy variable 3-54 (pseudogene)			14q32.33
+HGNC:5612	IGHV3-57	immunoglobulin heavy variable 3-57 (pseudogene)			14q32.33
+HGNC:5614	IGHV3-60	immunoglobulin heavy variable 3-60 (pseudogene)			14q32.33
+HGNC:5615	IGHV3-62	immunoglobulin heavy variable 3-62 (pseudogene)			14q32.33
+HGNC:5616	IGHV3-63	immunoglobulin heavy variable 3-63 (pseudogene)			14q32.33
+HGNC:5617	IGHV3-64	immunoglobulin heavy variable 3-64			14q32.33
+HGNC:5618	IGHV3-65	immunoglobulin heavy variable 3-65 (pseudogene)			14q32.33
+HGNC:5619	IGHV3-66	immunoglobulin heavy variable 3-66			14q32.33
+HGNC:5621	IGHV3-71	immunoglobulin heavy variable 3-71 (pseudogene)	IGHV3-G	IGHV3-g	14q32.33
+HGNC:5622	IGHV3-72	immunoglobulin heavy variable 3-72			14q32.33
+HGNC:5623	IGHV3-73	immunoglobulin heavy variable 3-73			14q32.33
+HGNC:5624	IGHV3-74	immunoglobulin heavy variable 3-74			14q32.33
+HGNC:5625	IGHV3-75	immunoglobulin heavy variable 3-75 (pseudogene)			14q32.33
+HGNC:5626	IGHV3-76	immunoglobulin heavy variable 3-76 (pseudogene)			14q32.33
+HGNC:5627	IGHV3-79	immunoglobulin heavy variable 3-79 (pseudogene)			14q32.33
+HGNC:5629	IGHV3-38-3	immunoglobulin heavy variable 3-38-3 (non-functional)	IGHV3-D	IGHV3-d	14q32.33 not on reference assembly
+HGNC:5631	IGHV3-69-1	immunoglobulin heavy variable 3-69-1 (pseudogene)	IGHV3-H	IGHV3-h	14q32.33
+HGNC:5652	IGHV4-4	immunoglobulin heavy variable 4-4			14q32.33
+HGNC:5645	IGHV4-28	immunoglobulin heavy variable 4-28			14q32.33
+HGNC:5646	IGHV4-30-1	immunoglobulin heavy variable 4-30-1			14q32.33
+HGNC:5647	IGHV4-30-2	immunoglobulin heavy variable 4-30-2		"IGHV4-3,IGHV4302"	14q32.33
+HGNC:5648	IGHV4-30-4	immunoglobulin heavy variable 4-30-4		"IGHV4-3,IGHV4304"	14q32.33 not on reference assembly
+HGNC:5649	IGHV4-31	immunoglobulin heavy variable 4-31			14q32.33 not on reference assembly
+HGNC:5650	IGHV4-34	immunoglobulin heavy variable 4-34			14q32.33
+HGNC:5651	IGHV4-39	immunoglobulin heavy variable 4-39			14q32.33
+HGNC:5653	IGHV4-55	immunoglobulin heavy variable 4-55 (pseudogene)			14q32.33
+HGNC:5654	IGHV4-59	immunoglobulin heavy variable 4-59			14q32.33
+HGNC:5655	IGHV4-61	immunoglobulin heavy variable 4-61			14q32.33
+HGNC:5656	IGHV4-80	immunoglobulin heavy variable 4-80 (pseudogene)			14q32.33
+HGNC:5657	IGHV4-38-2	immunoglobulin heavy variable 4-38-2	IGHV4-B		14q32.33 not on reference assembly
+HGNC:5659	IGHV5-51	immunoglobulin heavy variable 5-51			14q32.33
+HGNC:5660	IGHV5-78	immunoglobulin heavy variable 5-78 (pseudogene)			14q32.33
+HGNC:5661	IGHV5-10-1	immunoglobulin heavy variable 5-10-1	IGHV5-A	IGHV5-a	14q32.33
+HGNC:5662	IGHV6-1	immunoglobulin heavy variable 6-1			14q32.33
+HGNC:5665	IGHV7-4-1	immunoglobulin heavy variable 7-4-1			14q32.33
+HGNC:5666	IGHV7-40	immunoglobulin heavy variable 7-40 (pseudogene)			14q32.33
+HGNC:5663	IGHV7-27	immunoglobulin heavy variable 7-27 (pseudogene)			14q32.33
+HGNC:5667	IGHV7-56	immunoglobulin heavy variable 7-56 (pseudogene)			14q32.33
+HGNC:5664	IGHV7-34-1	immunoglobulin heavy variable 7-34-1 (pseudogene)			14q32.33
+HGNC:5669	IGHV7-81	immunoglobulin heavy variable 7-81 (non-functional)			14q32.33
+HGNC:5670	IGHVII-1-1	immunoglobulin heavy variable (II)-1-1 (pseudogene)		IGHV(II)-1-1	14q32.33
+HGNC:5671	IGHVII-15-1	immunoglobulin heavy variable (II)-15-1 (pseudogene)		IGHV(II)-15-1	14q32.33
+HGNC:5672	IGHVII-20-1	immunoglobulin heavy variable (II)-20-1 (pseudogene)		IGHV(II)-20-1	14q32.33
+HGNC:5673	IGHVII-22-1	immunoglobulin heavy variable (II)-22-1 (pseudogene)		IGHV(II)-22-1	14q32.33
+HGNC:5674	IGHVII-26-2	immunoglobulin heavy variable (II)-26-2 (pseudogene)		IGHV(II)-26-2	14q32.33
+HGNC:5675	IGHVII-28-1	immunoglobulin heavy variable (II)-28-1 (pseudogene)		IGHV(II)-28-1	14q32.33
+HGNC:5676	IGHVII-30-1	immunoglobulin heavy variable (II)-30-1 (pseudogene)		IGHV(II)-30-1	14q32.33
+HGNC:52400	IGHVII-30-21	immunoglobulin heavy variable (II)-30-21 (pseudogene)		IGHV(II)-30-21	14q32.33
+HGNC:5677	IGHVII-31-1	immunoglobulin heavy variable (II)-31-1 (pseudogene)		IGHV(II)-31-1	14q32.33 not on reference assembly
+HGNC:5678	IGHVII-33-1	immunoglobulin heavy variable (II)-33-1 (pseudogene)		IGHV(II)-33-1	14q32.33
+HGNC:5679	IGHVII-40-1	immunoglobulin heavy variable (II)-40-1 (pseudogene)		IGHV(II)-40-1	14q32.33
+HGNC:5680	IGHVII-43-1	immunoglobulin heavy variable (II)-43-1 (pseudogene)		IGHV(II)-43-1	14q32.33
+HGNC:5681	IGHVII-44-2	immunoglobulin heavy variable (II)-44-2 (pseudogene)		IGHV(II)-44-2	14q32.33
+HGNC:5682	IGHVII-46-1	immunoglobulin heavy variable (II)-46-1 (pseudogene)		IGHV(II)-46-1	14q32.33
+HGNC:5683	IGHVII-49-1	immunoglobulin heavy variable (II)-49-1 (pseudogene)		IGHV(II)-49-1	14q32.33
+HGNC:5684	IGHVII-51-2	immunoglobulin heavy variable (II)-51-2 (pseudogene)		IGHV(II)-51-2	14q32.33
+HGNC:5685	IGHVII-53-1	immunoglobulin heavy variable (II)-53-1 (pseudogene)		IGHV(II)-53-1	14q32.33
+HGNC:5686	IGHVII-60-1	immunoglobulin heavy variable (II)-60-1 (pseudogene)		IGHV(II)-60-1	14q32.33
+HGNC:5687	IGHVII-62-1	immunoglobulin heavy variable (II)-62-1 (pseudogene)		IGHV(II)-62-1	14q32.33
+HGNC:5688	IGHVII-65-1	immunoglobulin heavy variable (II)-65-1 (pseudogene)		IGHV(II)-65-1	14q32.33
+HGNC:5689	IGHVII-67-1	immunoglobulin heavy variable (II)-67-1 (pseudogene)		IGHV(II)-67-1	14q32.33
+HGNC:5690	IGHVII-74-1	immunoglobulin heavy variable (II)-74-1 (pseudogene)		IGHV(II)-74-1	14q32.33
+HGNC:5691	IGHVII-78-1	immunoglobulin heavy variable (II)-78-1 (pseudogene)		IGHV(II)-78-1	14q32.33
+HGNC:5695	IGHVIII-2-1	immunoglobulin heavy variable (III)-2-1 (pseudogene)		IGHV(III)-2-1	14q32.33
+HGNC:5702	IGHVIII-5-1	immunoglobulin heavy variable (III)-5-1 (pseudogene)		IGHV(III)-5-1	14q32.33
+HGNC:5703	IGHVIII-5-2	immunoglobulin heavy variable (III)-5-2 (pseudogene)		IGHV(III)-5-2	14q32.33
+HGNC:5692	IGHVIII-11-1	immunoglobulin heavy variable (III)-11-1 (pseudogene)		IGHV(III)-11-1	14q32.33
+HGNC:5693	IGHVIII-13-1	immunoglobulin heavy variable (III)-13-1 (pseudogene)		IGHV(III)-13-1	14q32.33
+HGNC:5694	IGHVIII-16-1	immunoglobulin heavy variable (III)-16-1 (pseudogene)		IGHV(III)-16-1	14q32.33
+HGNC:5696	IGHVIII-22-2	immunoglobulin heavy variable (III)-22-2 (pseudogene)		IGHV(III)-22-2	14q32.33
+HGNC:5697	IGHVIII-25-1	immunoglobulin heavy variable (III)-25-1 (pseudogene)		IGHV(III)-25-1	14q32.33
+HGNC:5698	IGHVIII-26-1	immunoglobulin heavy variable (III)-26-1 (pseudogene)		IGHV(III)-26-1	14q32.33
+HGNC:5699	IGHVIII-38-1	immunoglobulin heavy variable (III)-38-1 (pseudogene)		IGHV(III)-38-1	14q32.33
+HGNC:5700	IGHVIII-44	immunoglobulin heavy variable (III)-44 (pseudogene)		IGHV(III)-44	14q32.33
+HGNC:5701	IGHVIII-47-1	immunoglobulin heavy variable (III)-47-1 (pseudogene)		IGHV(III)-47-1	14q32.33
+HGNC:5704	IGHV8-51-1	immunoglobulin heavy variable IGHV8-51-1 (non-functional)	IGHVIII-51-1	IGHV(III)-51-1	14q32.33
+HGNC:5705	IGHVIII-67-2	immunoglobulin heavy variable (III)-67-2 (pseudogene)		IGHV(III)-67-2	14q32.33
+HGNC:5706	IGHVIII-67-3	immunoglobulin heavy variable (III)-67-3 (pseudogene)		IGHV(III)-67-3	14q32.33
+HGNC:5707	IGHVIII-67-4	immunoglobulin heavy variable (III)-67-4 (pseudogene)		IGHV(III)-67-4	14q32.33
+HGNC:5708	IGHVIII-76-1	immunoglobulin heavy variable (III)-76-1 (pseudogene)		IGHV(III)-76-1	14q32.33
+HGNC:5709	IGHVIII-82	immunoglobulin heavy variable (III)-82 (pseudogene)		IGHV(III)-82	14q32.33
+HGNC:5710	IGHVIV-44-1	immunoglobulin heavy variable (IV)-44-1 (pseudogene)		IGHV(IV)-44-1	14q32.33
+HGNC:5482	IGHD1-1	immunoglobulin heavy diversity 1-1		IGHD11	14q32.33
+HGNC:5486	IGHD1-7	immunoglobulin heavy diversity 1-7		"DM1,IGHD17"	14q32.33
+HGNC:5483	IGHD1-14	immunoglobulin heavy diversity 1-14 (non-functional)		"IGHD114,DM2"	14q32.33
+HGNC:5484	IGHD1-20	immunoglobulin heavy diversity 1-20		IGHD120	14q32.33
+HGNC:5485	IGHD1-26	immunoglobulin heavy diversity 1-26		IGHD126	14q32.33
+HGNC:5490	IGHD2-2	immunoglobulin heavy diversity 2-2		IGHD22	14q32.33
+HGNC:5492	IGHD2-8	immunoglobulin heavy diversity 2-8		"IGHD28,DLR1"	14q32.33
+HGNC:5489	IGHD2-15	immunoglobulin heavy diversity 2-15		"IGHD215,D2"	14q32.33
+HGNC:5491	IGHD2-21	immunoglobulin heavy diversity 2-21		IGHD221	14q32.33
+HGNC:5498	IGHD3-3	immunoglobulin heavy diversity 3-3		"IGHD33,DXP4"	14q32.33
+HGNC:5499	IGHD3-9	immunoglobulin heavy diversity 3-9		"IGHD39,DXP1"	14q32.33
+HGNC:5495	IGHD3-10	immunoglobulin heavy diversity 3-10		"IGHD310,DXP'1"	14q32.33
+HGNC:5496	IGHD3-16	immunoglobulin heavy diversity 3-16		IGHD316	14q32.33
+HGNC:5497	IGHD3-22	immunoglobulin heavy diversity 3-22		IGHD322	14q32.33
+HGNC:5505	IGHD4-4	immunoglobulin heavy diversity 4-4		"IGHD44,DA4"	14q32.33
+HGNC:5502	IGHD4-11	immunoglobulin heavy diversity 4-11 (non-functional)		"IGHD411,DA1"	14q32.33
+HGNC:5503	IGHD4-17	immunoglobulin heavy diversity 4-17		IGHD417	14q32.33
+HGNC:5504	IGHD4-23	immunoglobulin heavy diversity 4-23 (non-functional)		IGHD423	14q32.33
+HGNC:5511	IGHD5-5	immunoglobulin heavy diversity 5-5		"IGHD55,DK4"	14q32.33
+HGNC:5508	IGHD5-12	immunoglobulin heavy diversity 5-12		"IGHD512,DK1"	14q32.33
+HGNC:5509	IGHD5-18	immunoglobulin heavy diversity 5-18		IGHD518	14q32.33
+HGNC:5510	IGHD5-24	immunoglobulin heavy diversity 5-24 (non-functional)		IGHD524	14q32.33
+HGNC:5517	IGHD6-6	immunoglobulin heavy diversity 6-6		"IGHD66,D(N4)"	14q32.33
+HGNC:5514	IGHD6-13	immunoglobulin heavy diversity 6-13		"IGHD613,DN1"	14q32.33
+HGNC:5515	IGHD6-19	immunoglobulin heavy diversity 6-19		IGHD619	14q32.33
+HGNC:5516	IGHD6-25	immunoglobulin heavy diversity 6-25		IGHD625	14q32.33
+HGNC:5518	IGHD7-27	immunoglobulin heavy diversity 7-27		"IGHD727,DHQ52"	14q32.33
+HGNC:5532	IGHJ1	immunoglobulin heavy joining 1			14q32.33
+HGNC:5533	IGHJ1P	immunoglobulin heavy joining 1P (pseudogene)		Jpsi1	14q32.33
+HGNC:5534	IGHJ2	immunoglobulin heavy joining 2			14q32.33
+HGNC:5535	IGHJ2P	immunoglobulin heavy joining 2P (pseudogene)		Jpsi2	14q32.33
+HGNC:5536	IGHJ3	immunoglobulin heavy joining 3			14q32.33
+HGNC:5537	IGHJ3P	immunoglobulin heavy joining 3P (pseudogene)		Jpsi3	14q32.33
+HGNC:5538	IGHJ4	immunoglobulin heavy joining 4			14q32.33
+HGNC:5539	IGHJ5	immunoglobulin heavy joining 5			14q32.33
+HGNC:5540	IGHJ6	immunoglobulin heavy joining 6			14q32.33
+HGNC:5478	IGHA1	immunoglobulin heavy constant alpha 1			14q32.33
+HGNC:5479	IGHA2	immunoglobulin heavy constant alpha 2 (A2m marker)			14q32.33
+HGNC:5525	IGHG1	immunoglobulin heavy constant gamma 1 (G1m marker)			14q32.33
+HGNC:5526	IGHG2	immunoglobulin heavy constant gamma 2 (G2m marker)			14q32.33
+HGNC:5527	IGHG3	immunoglobulin heavy constant gamma 3 (G3m marker)			14q32.33
+HGNC:5528	IGHG4	immunoglobulin heavy constant gamma 4 (G4m marker)			14q32.33
+HGNC:5529	IGHGP	immunoglobulin heavy constant gamma P (non-functional)	IGHGP1		14q32.33
+HGNC:5480	IGHD	immunoglobulin heavy constant delta		"FLJ00382,FLJ46727,MGC29633"	14q32.33
+HGNC:5522	IGHE	immunoglobulin heavy constant epsilon			14q32.33
+HGNC:5523	IGHEP1	immunoglobulin heavy constant epsilon P1 (pseudogene)			14q32.33
+HGNC:5541	IGHM	immunoglobulin heavy constant mu			14q32.33

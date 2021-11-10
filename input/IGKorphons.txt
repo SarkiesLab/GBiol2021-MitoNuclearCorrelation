@@ -1,0 +1,33 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:37729	IGKV1ORY-1	immunoglobulin kappa variable 1/ORY-1 (pseudogene)		IGKV1/ORY-1	Yq11.21
+HGNC:5761	IGKV1OR-2	immunoglobulin kappa variable 1/OR-2 (pseudogene)	IGKVPZ2	IGKV1/OR-2	9q13
+HGNC:5762	IGKV1OR-3	immunoglobulin kappa variable 1/OR-3 (pseudogene)	IGKVPZ3	IGKV1/OR-3	9q12
+HGNC:5763	IGKV1OR-4	immunoglobulin kappa variable 1/OR-4 (pseudogene)	IGKVPZ4	IGKV1/OR-4	reserved
+HGNC:5764	IGKV1OR1-1	immunoglobulin kappa variable 1/OR1-1 (pseudogene)	IGKVP1	IGKV1/OR1-1	1q21.1
+HGNC:5766	IGKV1OR2-0	immunoglobulin kappa variable 1/OR2-0 (non-functional)		IGKV1/OR2-0	2p11.2
+HGNC:5760	IGKV1OR2-1	immunoglobulin kappa variable 1/OR2-1 (pseudogene)	"IGKVPZ1,IGKV1OR-1"	"IGKV1/OR-1,IGKV1/OR2-1"	2p11.1
+HGNC:49465	IGKV1OR2-2	immunoglobulin kappa variable 1/OR2-2 (pseudogene)		IGKV1/OR2-2	2p11.1
+HGNC:5769	IGKV1OR2-3	immunoglobulin kappa variable 1/OR2-3 (pseudogene)		IGKV1/OR2-3	2q11.2
+HGNC:5770	IGKV1OR2-6	immunoglobulin kappa variable 1/OR2-6 (pseudogene)		IGKV1/OR2-6	2q11.2
+HGNC:5771	IGKV1OR2-9	immunoglobulin kappa variable 1/OR2-9 (pseudogene)		IGKV1/OR2-9	2q11.2
+HGNC:49473	IGKV1OR9-1	immunoglobulin kappa variable 1/OR9-1 (pseudogene)		IGKV1/OR9-1	9q21.11
+HGNC:49466	IGKV1OR9-2	immunoglobulin kappa variable 1/OR9-2 (pseudogene)		IGKV1/OR9-2	9p12
+HGNC:44978	IGKV1OR10-1	immunoglobulin kappa variable 1/OR10-1 (pseudogene)		IGKV1/OR10-1	10q11.21
+HGNC:5768	IGKV1OR2-11	immunoglobulin kappa variable 1/OR2-11 (pseudogene)		IGKV1/OR2-11	2q11.2
+HGNC:5772	IGKV1OR22-1	immunoglobulin kappa variable 1/OR22-1 (pseudogene)	IGKVP5	IGKV1/OR22-1	22q11.1
+HGNC:5773	IGKV1OR22-5	immunoglobulin kappa variable 1/OR22-5 (pseudogene)	"IGKVP7,IGKV1OR22-5A"	"IGKV1/OR22-5,IGKV1/OR22-5A"	22q11
+HGNC:5767	IGKV1OR2-108	immunoglobulin kappa variable 1/OR2-108 (non-functional)		"IGKV1/OR2-108,IGKV1OR2108,IGO1"	2q12-q14
+HGNC:37488	IGKV1OR2-118	immunoglobulin kappa variable 1/OR2-118 (pseudogene)		IGKV1/OR2-118	2p11.2
+HGNC:5765	IGKV1OR15-118	immunoglobulin kappa variable 1/OR15-118 (pseudogene)	IGKVP2	"IGKV1/OR-118,IGKV1/OR15-118"	15 not on reference assembly
+HGNC:5805	IGKV2OR2-1	immunoglobulin kappa variable 2/OR2-1 (pseudogene)	IGKV2OR2-1A	"IGKV2/OR2-1,IGKV2/OR2-1A"	2q11.2
+HGNC:5808	IGKV2OR2-2	immunoglobulin kappa variable 2/OR2-2 (pseudogene)		IGKV2/OR2-2	2q11.2
+HGNC:5809	IGKV2OR2-4	immunoglobulin kappa variable 2/OR2-4 (pseudogene)		IGKV2/OR2-4	2q11.2
+HGNC:5810	IGKV2OR2-7	immunoglobulin kappa variable 2/OR2-7 (pseudogene)		IGKV2/OR2-7	2q11.2
+HGNC:37489	IGKV2OR2-7D	immunoglobulin kappa variable 2/OR2-7D (pseudogene)		IGKV2/OR2-7D	2q11.2
+HGNC:5811	IGKV2OR2-8	immunoglobulin kappa variable 2/OR2-8 (pseudogene)		IGKV2/OR2-8	2q11.2
+HGNC:5806	IGKV2OR2-10	immunoglobulin kappa variable 2/OR2-10 (pseudogene)		IGKV2/OR2-10	2q11.2
+HGNC:5812	IGKV2OR22-3	immunoglobulin kappa variable 2/OR22-3 (pseudogene)	IGKVP4	IGKV2/OR22-3	22q11.1
+HGNC:5813	IGKV2OR22-4	immunoglobulin kappa variable 2/OR22-4 (pseudogene)	IGKVP6	IGKV2/OR22-4	22q11.1
+HGNC:5832	IGKV3OR2-5	immunoglobulin kappa variable 3/OR2-5 (pseudogene)		IGKV3/OR2-5	2q11.2
+HGNC:5833	IGKV3OR22-2	immunoglobulin kappa variable 3/OR22-2 (pseudogene)	IGKVP3	IGKV3/OR22-2	22q11.1
+HGNC:5830	IGKV3OR2-268	immunoglobulin kappa variable 3/OR2-268 (non-functional)	"IGKV268,IGKV3OR2-268A"	"IGKV3/OR2-268,IGKV3/OR2-268A"	2p12

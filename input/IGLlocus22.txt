@@ -1,0 +1,90 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:5853	IGL	immunoglobulin lambda locus	IGL@		22q11.2
+HGNC:5876	IGLV1-36	immunoglobulin lambda variable 1-36			22q11.22
+HGNC:5877	IGLV1-40	immunoglobulin lambda variable 1-40			22q11.22
+HGNC:5878	IGLV1-41	immunoglobulin lambda variable 1-41 (pseudogene)			22q11.22
+HGNC:5879	IGLV1-44	immunoglobulin lambda variable 1-44			22q11.22
+HGNC:5880	IGLV1-47	immunoglobulin lambda variable 1-47			22q11.22
+HGNC:5881	IGLV1-50	immunoglobulin lambda variable 1-50 (non-functional)			22q11.22
+HGNC:5882	IGLV1-51	immunoglobulin lambda variable 1-51			22q11.22
+HGNC:5883	IGLV1-62	immunoglobulin lambda variable 1-62 (pseudogene)			22q11.22
+HGNC:5894	IGLV2-5	immunoglobulin lambda variable 2-5 (pseudogene)			22q11.22
+HGNC:5895	IGLV2-8	immunoglobulin lambda variable 2-8			22q11.22
+HGNC:5887	IGLV2-11	immunoglobulin lambda variable 2-11			22q11.22
+HGNC:5888	IGLV2-14	immunoglobulin lambda variable 2-14			22q11.22
+HGNC:5889	IGLV2-18	immunoglobulin lambda variable 2-18			22q11.22
+HGNC:5890	IGLV2-23	immunoglobulin lambda variable 2-23			22q11.22
+HGNC:5891	IGLV2-28	immunoglobulin lambda variable 2-28 (pseudogene)			22q11.22
+HGNC:5892	IGLV2-33	immunoglobulin lambda variable 2-33 (non-functional)			22q11.22
+HGNC:5893	IGLV2-34	immunoglobulin lambda variable 2-34 (pseudogene)			22q11.22
+HGNC:5896	IGLV3-1	immunoglobulin lambda variable 3-1			22q11.22
+HGNC:5904	IGLV3-2	immunoglobulin lambda variable 3-2 (pseudogene)			22q11.22
+HGNC:5915	IGLV3-4	immunoglobulin lambda variable 3-4 (pseudogene)			22q11.22
+HGNC:5916	IGLV3-6	immunoglobulin lambda variable 3-6 (pseudogene)			22q11.22
+HGNC:5917	IGLV3-7	immunoglobulin lambda variable 3-7 (pseudogene)			22q11.22
+HGNC:5918	IGLV3-9	immunoglobulin lambda variable 3-9			22q11.22
+HGNC:5897	IGLV3-10	immunoglobulin lambda variable 3-10			22q11.22
+HGNC:5898	IGLV3-12	immunoglobulin lambda variable 3-12			22q11.22
+HGNC:5899	IGLV3-13	immunoglobulin lambda variable 3-13 (pseudogene)			22q11.22
+HGNC:5900	IGLV3-15	immunoglobulin lambda variable 3-15 (pseudogene)			22q11.22
+HGNC:5901	IGLV3-16	immunoglobulin lambda variable 3-16			22q11.22
+HGNC:5902	IGLV3-17	immunoglobulin lambda variable 3-17 (pseudogene)			22q11.22
+HGNC:5903	IGLV3-19	immunoglobulin lambda variable 3-19			22q11.22
+HGNC:5905	IGLV3-21	immunoglobulin lambda variable 3-21			22q11.22
+HGNC:5906	IGLV3-22	immunoglobulin lambda variable 3-22			22q11.22
+HGNC:5907	IGLV3-24	immunoglobulin lambda variable 3-24 (pseudogene)			22q11.22
+HGNC:5908	IGLV3-25	immunoglobulin lambda variable 3-25			22q11.22
+HGNC:5909	IGLV3-26	immunoglobulin lambda variable 3-26 (pseudogene)			22q11.22
+HGNC:5910	IGLV3-27	immunoglobulin lambda variable 3-27			22q11.22
+HGNC:5911	IGLV3-29	immunoglobulin lambda variable 3-29 (pseudogene)			22q11.22
+HGNC:5912	IGLV3-30	immunoglobulin lambda variable 3-30 (pseudogene)			22q11.22
+HGNC:5913	IGLV3-31	immunoglobulin lambda variable 3-31 (pseudogene)			22q11.22
+HGNC:5914	IGLV3-32	immunoglobulin lambda variable 3-32 (non-functional)			22q11.22
+HGNC:5919	IGLV4-3	immunoglobulin lambda variable 4-3			22q11.22
+HGNC:5920	IGLV4-60	immunoglobulin lambda variable 4-60			22q11.22
+HGNC:5921	IGLV4-69	immunoglobulin lambda variable 4-69			22q11.22
+HGNC:5922	IGLV5-37	immunoglobulin lambda variable 5-37			22q11.22
+HGNC:5923	IGLV5-39	immunoglobulin lambda variable 5-39			22q11.2 alternate reference locus
+HGNC:5924	IGLV5-45	immunoglobulin lambda variable 5-45			22q11.22
+HGNC:5925	IGLV5-48	immunoglobulin lambda variable 5-48 (non-functional)			22q11.22
+HGNC:5926	IGLV5-52	immunoglobulin lambda variable 5-52			22q11.22
+HGNC:5927	IGLV6-57	immunoglobulin lambda variable 6-57			22q11.22
+HGNC:5928	IGLV7-35	immunoglobulin lambda variable 7-35 (pseudogene)			22q11.22
+HGNC:5929	IGLV7-43	immunoglobulin lambda variable 7-43			22q11.22
+HGNC:5930	IGLV7-46	immunoglobulin lambda variable 7-46			22q11.22
+HGNC:5931	IGLV8-61	immunoglobulin lambda variable 8-61			22q11.22
+HGNC:5933	IGLV9-49	immunoglobulin lambda variable 9-49			22q11.22
+HGNC:5884	IGLV10-54	immunoglobulin lambda variable 10-54			22q11.22
+HGNC:5885	IGLV10-67	immunoglobulin lambda variable 10-67 (pseudogene)			22q11.22
+HGNC:5886	IGLV11-55	immunoglobulin lambda variable 11-55 (non-functional)			22q11.22
+HGNC:5934	IGLVI-20	immunoglobulin lambda variable (I)-20 (pseudogene)		IGLV(I)-20	22q11.22
+HGNC:5935	IGLVI-38	immunoglobulin lambda variable (I)-38 (pseudogene)		IGLV(I)-38	22q11.22
+HGNC:5936	IGLVI-42	immunoglobulin lambda variable (I)-42 (pseudogene)		IGLV(I)-42	22q11.22
+HGNC:5937	IGLVI-56	immunoglobulin lambda variable (I)-56 (pseudogene)		IGLV(I)-56	22q11.22
+HGNC:5938	IGLVI-63	immunoglobulin lambda variable (I)-63 (pseudogene)		IGLV(I)-63	22q11.22
+HGNC:5939	IGLVI-68	immunoglobulin lambda variable (I)-68 (pseudogene)		IGLV(I)-68	22q11.22
+HGNC:5940	IGLVI-70	immunoglobulin lambda variable (I)-70 (pseudogene)		IGLV(I)-70	22q11.22
+HGNC:5941	IGLVIV-53	immunoglobulin lambda variable (IV)-53 (pseudogene)		IGLV(IV)-53	22q11.22
+HGNC:5942	IGLVIV-59	immunoglobulin lambda variable (IV)-59 (pseudogene)		IGLV(IV)-59	22q11.22
+HGNC:5943	IGLVIV-64	immunoglobulin lambda variable (IV)-64 (pseudogene)		IGLV(IV)-64	22q11.22
+HGNC:5944	IGLVIV-65	immunoglobulin lambda variable (IV)-65 (pseudogene)		IGLV(IV)-65	22q11.22
+HGNC:15692	IGLVIV-66-1	immunoglobulin lambda variable (IV)-66-1 (pseudogene)		IGLV(IV)-66-1	22q11.22
+HGNC:5945	IGLVV-58	immunoglobulin lambda variable (V)-58 (pseudogene)		IGLV(V)-58	22q11.22
+HGNC:5946	IGLVV-66	immunoglobulin lambda variable (V)-66 (pseudogene)		IGLV(V)-66	22q11.22
+HGNC:15689	IGLVVI-22-1	immunoglobulin lambda variable (VI)-22-1 (pseudogene)		IGLV(VI)-22-1	22q11.22
+HGNC:15690	IGLVVI-25-1	immunoglobulin lambda variable (VI)-25-1 (pseudogene)		IGLV(VI)-25-1	22q11.22
+HGNC:15691	IGLVVII-41-1	immunoglobulin lambda variable (VII)-41-1 (pseudogene)		IGLV(VII)-41-1	22q11.22
+HGNC:5863	IGLJ1	immunoglobulin lambda joining 1			22q11.22
+HGNC:5864	IGLJ2	immunoglobulin lambda joining 2			22q11.22
+HGNC:5865	IGLJ3	immunoglobulin lambda joining 3			22q11.22
+HGNC:5866	IGLJ4	immunoglobulin lambda joining 4 (non-functional)			22q11.22
+HGNC:5867	IGLJ5	immunoglobulin lambda joining 5 (non-functional)			22q11.22
+HGNC:5868	IGLJ6	immunoglobulin lambda joining 6			22q11.22
+HGNC:5869	IGLJ7	immunoglobulin lambda joining 7			22q11.22
+HGNC:5855	IGLC1	immunoglobulin lambda constant 1	IGLC		22q11.22
+HGNC:5856	IGLC2	immunoglobulin lambda constant 2	IGLC		22q11.22
+HGNC:5857	IGLC3	immunoglobulin lambda constant 3 (Kern-Oz+ marker)	IGLC		22q11.22
+HGNC:5858	IGLC4	immunoglobulin lambda constant 4 (pseudogene)	IGLC		22q11.22
+HGNC:5859	IGLC5	immunoglobulin lambda constant 5 (pseudogene)	IGLC		22q11.22
+HGNC:5860	IGLC6	immunoglobulin lambda constant 6	IGLC		22q11.22
+HGNC:5861	IGLC7	immunoglobulin lambda constant 7			22q11.22

@@ -1,0 +1,84 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:5715	IGK	immunoglobulin kappa locus	IGK@		2p11.2
+HGNC:5741	IGKV1-5	immunoglobulin kappa variable 1-5			2p11.2
+HGNC:5742	IGKV1-6	immunoglobulin kappa variable 1-6			2p11.2
+HGNC:5743	IGKV1-8	immunoglobulin kappa variable 1-8		"IGKV18,L9"	2p11.2
+HGNC:5744	IGKV1-9	immunoglobulin kappa variable 1-9		"IGKV19,L8"	2p11.2
+HGNC:5730	IGKV1-12	immunoglobulin kappa variable 1-12		"IGKV112,L19"	2p11.2
+HGNC:5731	IGKV1-13	immunoglobulin kappa variable 1-13			2p11.2
+HGNC:5732	IGKV1-16	immunoglobulin kappa variable 1-16		"IGKV116,L1"	2p11.2
+HGNC:5733	IGKV1-17	immunoglobulin kappa variable 1-17		"IGKV117,A30"	2p11.2
+HGNC:5734	IGKV1-22	immunoglobulin kappa variable 1-22 (pseudogene)			2p11.2
+HGNC:5735	IGKV1-27	immunoglobulin kappa variable 1-27		"IGKV127,A20"	2p11.2
+HGNC:5736	IGKV1-32	immunoglobulin kappa variable 1-32 (pseudogene)			2p11.2
+HGNC:5737	IGKV1-33	immunoglobulin kappa variable 1-33		"IGKV133,O18"	2p11.2
+HGNC:5738	IGKV1-35	immunoglobulin kappa variable 1-35 (pseudogene)			2p11.2
+HGNC:5739	IGKV1-37	immunoglobulin kappa variable 1-37 (non-functional)		"IGKV137,O14"	2p11.2
+HGNC:5740	IGKV1-39	immunoglobulin kappa variable 1-39			2p11.2
+HGNC:5759	IGKV1D-8	immunoglobulin kappa variable 1D-8			2p11.2
+HGNC:5746	IGKV1D-12	immunoglobulin kappa variable 1D-12			2p11.2
+HGNC:5747	IGKV1D-13	immunoglobulin kappa variable 1D-13			2p11.2
+HGNC:5748	IGKV1D-16	immunoglobulin kappa variable 1D-16			2p11.2
+HGNC:5749	IGKV1D-17	immunoglobulin kappa variable 1D-17			2p11.2
+HGNC:5750	IGKV1D-22	immunoglobulin kappa variable 1D-22 (pseudogene)			2p11.2
+HGNC:5751	IGKV1D-27	immunoglobulin kappa variable 1D-27 (pseudogene)			2p11.2
+HGNC:5752	IGKV1D-32	immunoglobulin kappa variable 1D-32 (pseudogene)			2p11.2
+HGNC:5753	IGKV1D-33	immunoglobulin kappa variable 1D-33			2p11.2
+HGNC:5754	IGKV1D-35	immunoglobulin kappa variable 1D-35 (pseudogene)			2p11.2
+HGNC:5755	IGKV1D-37	immunoglobulin kappa variable 1D-37 (non-functional)		"IGKV1D37,O4"	2p11.2
+HGNC:5756	IGKV1D-39	immunoglobulin kappa variable 1D-39			2p11.2
+HGNC:5757	IGKV1D-42	immunoglobulin kappa variable 1D-42 (non-functional)			2p11.2
+HGNC:5758	IGKV1D-43	immunoglobulin kappa variable 1D-43			2p11.2
+HGNC:5788	IGKV2-4	immunoglobulin kappa variable 2-4 (pseudogene)			2p11.2
+HGNC:5776	IGKV2-10	immunoglobulin kappa variable 2-10 (pseudogene)			2p11.2
+HGNC:5777	IGKV2-14	immunoglobulin kappa variable 2-14 (pseudogene)			2p11.2
+HGNC:5778	IGKV2-18	immunoglobulin kappa variable 2-18 (pseudogene)			2p11.2
+HGNC:5779	IGKV2-19	immunoglobulin kappa variable 2-19 (pseudogene)			2p11.2
+HGNC:5780	IGKV2-23	immunoglobulin kappa variable 2-23 (pseudogene)			2p11.2
+HGNC:5781	IGKV2-24	immunoglobulin kappa variable 2-24			2p11.2
+HGNC:5782	IGKV2-26	immunoglobulin kappa variable 2-26 (pseudogene)			2p11.2
+HGNC:5783	IGKV2-28	immunoglobulin kappa variable 2-28			2p11.2
+HGNC:5784	IGKV2-29	immunoglobulin kappa variable 2-29			2p11.2
+HGNC:5785	IGKV2-30	immunoglobulin kappa variable 2-30			2p11.2
+HGNC:5786	IGKV2-36	immunoglobulin kappa variable 2-36 (pseudogene)			2p11.2
+HGNC:5787	IGKV2-38	immunoglobulin kappa variable 2-38 (pseudogene)			2p11.2
+HGNC:5789	IGKV2-40	immunoglobulin kappa variable 2-40			2p11.2
+HGNC:5792	IGKV2D-10	immunoglobulin kappa variable 2D-10 (pseudogene)			2p11.2
+HGNC:5793	IGKV2D-14	immunoglobulin kappa variable 2D-14 (pseudogene)			2p11.2
+HGNC:5794	IGKV2D-18	immunoglobulin kappa variable 2D-18 (pseudogene)			2p11.2
+HGNC:5795	IGKV2D-19	immunoglobulin kappa variable 2D-19 (pseudogene)			2p11.2
+HGNC:5796	IGKV2D-23	immunoglobulin kappa variable 2D-23 (pseudogene)			2p11.2
+HGNC:5797	IGKV2D-24	immunoglobulin kappa variable 2D-24 (non-functional)			2p11.2
+HGNC:5798	IGKV2D-26	immunoglobulin kappa variable 2D-26			2p11.2
+HGNC:5799	IGKV2D-28	immunoglobulin kappa variable 2D-28			2p11.2
+HGNC:5800	IGKV2D-29	immunoglobulin kappa variable 2D-29			2p11.2
+HGNC:5801	IGKV2D-30	immunoglobulin kappa variable 2D-30			2p11.2
+HGNC:5802	IGKV2D-36	immunoglobulin kappa variable 2D-36 (pseudogene)			2p11.2
+HGNC:5803	IGKV2D-38	immunoglobulin kappa variable 2D-38 (pseudogene)			2p11.2
+HGNC:5804	IGKV2D-40	immunoglobulin kappa variable 2D-40			2p11.2
+HGNC:5821	IGKV3-7	immunoglobulin kappa variable 3-7 (non-functional)			2p11.2
+HGNC:5815	IGKV3-11	immunoglobulin kappa variable 3-11			2p11.2
+HGNC:5829	IGKV3D-7	immunoglobulin kappa variable 3D-7			2p11.2
+HGNC:5816	IGKV3-15	immunoglobulin kappa variable 3-15			2p11.2
+HGNC:5823	IGKV3D-11	immunoglobulin kappa variable 3D-11			2p11.2
+HGNC:5834	IGKV4-1	immunoglobulin kappa variable 4-1		"IGKV41,B3"	2p11.2
+HGNC:5817	IGKV3-20	immunoglobulin kappa variable 3-20			2p11.2
+HGNC:5824	IGKV3D-15	immunoglobulin kappa variable 3D-15			2p11.2
+HGNC:5835	IGKV5-2	immunoglobulin kappa variable 5-2		"IGKV52,B2"	2p11.2
+HGNC:5818	IGKV3-25	immunoglobulin kappa variable 3-25 (pseudogene)			2p11.2
+HGNC:5825	IGKV3D-20	immunoglobulin kappa variable 3D-20			2p11.2
+HGNC:5836	IGKV6-21	immunoglobulin kappa variable 6-21 (non-functional)		"IGKV621,A26"	2p11.2
+HGNC:5819	IGKV3-31	immunoglobulin kappa variable 3-31 (pseudogene)			2p11.2
+HGNC:5826	IGKV3D-25	immunoglobulin kappa variable 3D-25 (pseudogene)			2p11.2
+HGNC:5837	IGKV6D-21	immunoglobulin kappa variable 6D-21 (non-functional)		"IGKV6D21,A10"	2p11.2
+HGNC:5820	IGKV3-34	immunoglobulin kappa variable 3-34 (pseudogene)			2p11.2
+HGNC:5827	IGKV3D-31	immunoglobulin kappa variable 3D-31 (pseudogene)			2p11.2
+HGNC:5838	IGKV6D-41	immunoglobulin kappa variable 6D-41 (non-functional)			2p11.2
+HGNC:5828	IGKV3D-34	immunoglobulin kappa variable 3D-34 (pseudogene)			2p11.2
+HGNC:5839	IGKV7-3	immunoglobulin kappa variable 7-3 (pseudogene)			2p11.2
+HGNC:5719	IGKJ1	immunoglobulin kappa joining 1		J1	2p11.2
+HGNC:5720	IGKJ2	immunoglobulin kappa joining 2		J2	2p11.2
+HGNC:5721	IGKJ3	immunoglobulin kappa joining 3			2p11.2
+HGNC:5722	IGKJ4	immunoglobulin kappa joining 4			2p11.2
+HGNC:5723	IGKJ5	immunoglobulin kappa joining 5			2p11.2
+HGNC:5716	IGKC	immunoglobulin kappa constant		HCAK1	2p11.2

@@ -1,0 +1,7 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:15696	IGLCOR22-1	immunoglobulin lambda constant/OR22-1 (pseudogene)		IGLC/OR22-1	22q12.2-q12.3
+HGNC:15697	IGLCOR22-2	immunoglobulin lambda constant/OR22-2 (pseudogene)		IGLC/OR22-2	22q12.2-q12.3
+HGNC:28614	IGLJCOR18	immunoglobulin lambda joining-constant/OR18 (pseudogene)		"IGLJ-COR18,IGLJ-C/OR18"	18p11.31
+HGNC:15694	IGLVIVOR22-1	immunoglobulin lambda variable (IV)/OR22-1 (pseudogene)		IGLV(IV)/OR22-1	22q11.2-q12.1
+HGNC:15695	IGLVIVOR22-2	immunoglobulin lambda variable (IV)/OR22-2 (pseudogene)		IGLV(IV)/OR22-2	22q12.2-q12.3
+HGNC:5932	IGLV8OR8-1	immunoglobulin lambda variable 8/OR8-1 (pseudogene)		IGLV8/OR8-1	8q11.21
